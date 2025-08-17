@@ -1,4 +1,4 @@
-# 🔐 COM Proxy for Persistent Attack  
+# 🔐  COM Proxy for Persistence   
 
 ## 📖 Project Description  
 This project demonstrates how a **COM Proxy** can be implemented on Windows to simulate **persistence techniques**.  
